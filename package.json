@@ -1,0 +1,10 @@
+{
+  "name": "mangoose-postgres",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "sequelize": "^6.21.4",
+    "sequelize-cli": "^6.4.1"
+  }
+}
